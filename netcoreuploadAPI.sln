@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "netcoreuploadAPI", "netcoreuploadAPI.csproj", "{610CCA92-6B6B-4D75-9A13-9B5F270B43DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{610CCA92-6B6B-4D75-9A13-9B5F270B43DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{610CCA92-6B6B-4D75-9A13-9B5F270B43DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{610CCA92-6B6B-4D75-9A13-9B5F270B43DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{610CCA92-6B6B-4D75-9A13-9B5F270B43DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A282D8E-46C2-4B94-AFFB-0EA84F4C0A3A}
+	EndGlobalSection
+EndGlobal
